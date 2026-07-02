@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e7507a13-96c2-4d9a-ba71-97953f7619dd",
+    "Name": "UsrYatchs_FormPage",
+    "ModifiedOnUtc": "\/Date(1782968965000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yatchs form page"
+  }
+}
